@@ -19,10 +19,6 @@ input[type='text']:focus {
 	margin-bottom: 0.5rem;
 }
 
-.fragment {
-	display: flex;
-}
-
 button {
 	width: fit-content;
 	margin-right: 10px;
