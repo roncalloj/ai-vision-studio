@@ -19,8 +19,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
-azure-image-analysis.js
-openAI-image-generation.js
+./src/azure-image-analysis.js
+./src/openAI-image-generation.js
 
 npm-debug.log*
 yarn-debug.log*
