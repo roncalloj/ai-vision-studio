@@ -191,4 +191,4 @@ Common issues and solutions:
 
 ---
 
-Made with :h ❤️ by [Your Name]
+Made with 🎧 by roncalloj
