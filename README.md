@@ -2,7 +2,9 @@
 
 An AI-powered web application that leverages Hugging Face's free models to analyze existing images and generate new ones from text descriptions. Perfect for developers, artists, and anyone interested in AI image processing!
 
-![AI Vision Studio Demo](public/demo.png)
+<p align="center">
+  <img src="public/demo.png" alt="AI Vision Studio Demo">
+</p>
 
 ## ✨ Features
 
@@ -40,6 +42,9 @@ An AI-powered web application that leverages Hugging Face's free models to analy
 
    ```bash
    git clone https://github.com/roncalloj/ai-vision-studio.git
+   ```
+
+   ```bash
    cd ai-vision-studio
    ```
 
